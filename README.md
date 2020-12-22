@@ -1,7 +1,7 @@
 # FinalProject_DataScience
 #DataScience
 
-This is my final project
+1712575 - Hoàng Xuân Long
 
 
  DoAnCuoiKi_KhoaHocDuLieu
